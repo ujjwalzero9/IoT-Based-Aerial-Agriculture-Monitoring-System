@@ -129,6 +129,15 @@ The design and implementation of an IoT-based Aerial Agriculture Monitoring Syst
 - **Connection**:
   - Connect to Raspberry Pi using `ssh pi@<IP_address>`. Enter the password when prompted.
 
+## Team Members
+
+- **Ujjwal Kumar** - ujjwalzero9@gmail.com
+- **Suraj Parida** - surajparida9191@gmail.com
+- **Tilak Kumar Mishra** - tilakmishra225@gmail.com
+- **Prayas Das** - 2041004033.prayasdas@gmail.com.com
+- **Abhishek Kumar** - abhimodi388@gmail.com
+- **Omprakash Naik** - omprakashnaik54@gmail.com
+
 ## Conclusion
 
 This IoT-based aerial agriculture monitoring system integrates various technologies to enhance agricultural practices, aiming for precision, efficiency, and sustainability. The motivation and technical components outlined here provide a comprehensive guide for implementing this innovative system.
